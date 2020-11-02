@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-components-as-routes"]=this["webpackJsonpreact-components-as-routes"]||[]).push([[0],{7:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var a=n(1),o=n.n(a),r=n(5),c=n.n(r),s=n(16),u=n(17);c.a.render(o.a.createElement(s.a,null,o.a.createElement(u.a,{path:"/",component:function(){return o.a.createElement("div",null,o.a.createElement("h1",null,"Home!"))}})),document.getElementById("root"))}},[[7,1,2]]]);
+//# sourceMappingURL=main.af1ac962.chunk.js.map
