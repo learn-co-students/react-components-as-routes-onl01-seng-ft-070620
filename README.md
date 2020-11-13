@@ -86,7 +86,7 @@ So every time we refer to `Router` in this file, we are really just refering to 
 import React from 'react';
 import ReactDOM from 'react-dom';
 // Step 1. Import react-router functions
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom'; 
 
 const Home = () => {
   return (
